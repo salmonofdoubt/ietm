@@ -1,7 +1,7 @@
 # Ireland Energy Transition Monitor
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20200810.svg)](https://doi.org/10.5281/zenodo.20200810)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20200900.svg)](https://doi.org/10.5281/zenodo.20200900)
 An independent civic prototype for tracking Ireland's electricity transition using public data, generated JSON, transparent caveats, and scenario-based stress testing.
 
 Live demo path:
@@ -371,29 +371,8 @@ A Zenodo release should describe the project as a software/data research artefac
 
 Archived release DOI:
 
-    https://doi.org/10.5281/zenodo.20200810
+    https://doi.org/10.5281/zenodo.20200900
 
 Suggested citation after Zenodo release:
 
-    Baumann, A. C. (2026). Ireland Energy Transition Monitor: An open civic dashboard for electricity-transition accountability and demand-pressure scenarios (Version 0.1.0) [Software and data dashboard]. Zenodo. https://doi.org/10.5281/zenodo.20200810
-
-## Suggested citation
-
-Until a DOI is minted, cite the repository and commit hash:
-
-    Baumann, A. C. (2026). Ireland Energy Transition Monitor: An open civic dashboard for electricity-transition accountability and demand-pressure scenarios [Software and data dashboard]. GitHub. https://github.com/salmonofdoubt/salmonofdoubt.github.io
-
-Archived DOI: https://doi.org/10.5281/zenodo.20200810
-
-## Licence
-
-Licence information should be confirmed before archival release. If this project is intended for open reuse, add a clear open-source licence such as MIT, Apache-2.0, GPL-3.0, or another licence appropriate to the intended reuse model.
-
-Data-source terms should be reviewed separately from source-code licensing.
-
-## Maintainer
-
-André C. Baumann  
-Independent researcher · Dublin, Ireland  
-Climate, energy, environmental data, and Nature-based Solutions
-
+    Baumann, A. (2026). Ireland Energy Transition Monitor (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.20200900

@@ -4,7 +4,8 @@ title: "Ireland Energy Transition Monitor"
 type: software
 authors:
   - family-names: "Baumann"
-    given-names: "André C."
+    given-names: "André"
+    orcid: "https://orcid.org/0009-0005-8345-5530"
 abstract: "An independent civic dashboard and reproducible data pipeline for tracking Ireland's electricity transition, RES-E progress, and demand-pressure scenarios from data centres and electric vehicles."
 keywords:
   - Ireland
@@ -24,4 +25,4 @@ date-released: "2026-05-15"
 
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.20200810"
+    value: "10.5281/zenodo.20200900"

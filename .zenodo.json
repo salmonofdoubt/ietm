@@ -4,8 +4,9 @@
   "description": "An independent civic dashboard and reproducible data pipeline for tracking Ireland's electricity transition, annual RES-E progress, and demand-pressure scenarios from data centres and electric vehicles. The project combines generated JSON, public-source harvesting scripts, validation logic, a layperson method page, and a static web dashboard.",
   "creators": [
     {
-      "name": "Baumann, André C.",
-      "affiliation": "Independent researcher, Dublin, Ireland"
+      "name": "Baumann, André",
+      "affiliation": "Independent researcher, Dublin, Ireland",
+      "orcid": "0009-0005-8345-5530"
     }
   ],
   "keywords": [
@@ -34,5 +35,6 @@
       "relation": "isSupplementTo",
       "scheme": "url"
     }
-  ]
+  ],
+  "doi": "10.5281/zenodo.20200900"
 }
