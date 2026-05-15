@@ -2,6 +2,8 @@
 
 ## v0.1.0
 
+DOI: https://doi.org/10.5281/zenodo.20200810
+
 Initial archival release of the Ireland Energy Transition Monitor.
 
 ### Includes

@@ -21,3 +21,7 @@ url: "https://salmonofdoubt.github.io/demos/ietm/"
 license: "MIT"
 version: "0.1.0"
 date-released: "2026-05-15"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20200810"
